@@ -1,0 +1,7 @@
+{
+  "name": "MerchMagic AI",
+  "description": "Transform your logos into professional merch mockups instantly using AI. Edit your product shots with natural language commands and export print-ready designs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
